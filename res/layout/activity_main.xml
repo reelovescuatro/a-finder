@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:padding="50dp"
-        android:text="A FINDER"
+        android:text="@string/A FINDER"
         android:textSize="30sp"
          />
     
@@ -26,17 +26,17 @@
     <Button
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="Augmented Reality View" />
+        android:text="@string/Augmented Reality View" />
     
     <Button
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="Directory" />
+        android:text="@string/Directory" />
 
     <Button
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="Help" />
+        android:text="@string/Help" />
 
     <TextView
         android:layout_width="fill_parent"
@@ -45,6 +45,6 @@
         android:height="100dp"
         android:maxHeight="100dp"
         android:padding="10dp"
-        android:text="COPYRIGHT 2013" />
+        android:text="@string/COPYRIGHT 2013" />
 
 </LinearLayout>
